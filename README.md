@@ -17,7 +17,7 @@ What is the main goal of the course? Chaotic list of potential topics:
 * pandas / plotly?
 * How to make a Python package to share code?
 
-## Projectas
+## Projects
 
 Are we going to solve some problem(s) during the course?
 
